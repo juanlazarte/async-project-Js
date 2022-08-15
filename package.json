@@ -1,0 +1,23 @@
+{
+  "name": "async-project-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanlazarte/async-project-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanlazarte/async-project-Js/issues"
+  },
+  "homepage": "https://github.com/juanlazarte/async-project-Js#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
